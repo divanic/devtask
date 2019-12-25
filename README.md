@@ -1,3 +1,3 @@
 # dev tasks
 my example of solving tasks from
-https://github.com/Asgoret/test_tasks/tree/
+https://github.com/Asgoret/test_tasks/
